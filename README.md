@@ -38,7 +38,8 @@ d) Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** p
 e) Software **[Photopia](https://photopia.nl/)** para edição final do vídeo.
 
 ## 🧐 Processo de Criação
-Inicialmente fiz uma publicação no LinkedIn sobre "As diferenças entre Scrum e Kanban" (https://www.linkedin.com/posts/alexandre-tampieri_metodologiaaergil-scrum-kanban-activity-7152667081220448257-TUaT).
+Inicialmente fiz uma publicação no LinkedIn sobre "As diferenças entre Scrum e Kanban"
+https://www.linkedin.com/posts/alexandre-tampieri_metodologiaaergil-scrum-kanban-activity-7152667081220448257-TUaT
 
 Utilizando os softwares VideoScribe, Adobe Premiere e Photopia para criação do vídeo e da IA Generativa ElevenLabs para criação de toda a narração.
 
