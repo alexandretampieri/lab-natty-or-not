@@ -38,14 +38,18 @@ d) Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** p
 e) Software **[Photopia](https://photopia.nl/)** para edição final do vídeo.
 
 ## 🧐 Processo de Criação
-Inicialmente fiz uma publicação no LinkedIn sobre "As diferenças entre Scrum e Kanban" (https://www.linkedin.com/posts/alexandre-tampieri_metodologiaaergil-scrum-kanban-activity-7152667081220448257-TUaT) utilizando os softwares VideoScribe, Adobe Premiere e Photopia para criação do vídeo e da IA Generativa ElevenLabs para criação de toda a narração.
+Inicialmente fiz uma publicação no LinkedIn sobre "As diferenças entre Scrum e Kanban" (https://www.linkedin.com/posts/alexandre-tampieri_metodologiaaergil-scrum-kanban-activity-7152667081220448257-TUaT).
+
+Utilizando os softwares VideoScribe, Adobe Premiere e Photopia para criação do vídeo e da IA Generativa ElevenLabs para criação de toda a narração.
 
 Depois resolvi adaptar o vídeo e incluir uma imagem feita dentro do criador de imagens do Bing e gerar um novo vídeo utilizando o software Photopia.
 
 ## 🚀 Resultados
 Foi criado um vídeo com a duração de 1 minuto e 42 segundos mostrando "As Diferenças entre o Scrum e o Kanban", onde concluimos que não existe um melhor, pois a escolha depende de seu contexto.
 
-Link do vídeo: https://github.com/alexandretampieri/lab-natty-or-not/blob/main/exemplos/V%C3%ADdeo%20IA%20-%20As%20Diferen%C3%A7as%20entre%20o%20Scrum%20e%20o%20Kanban.mp4
+Link do vídeo:
+
+https://github.com/alexandretampieri/lab-natty-or-not/blob/main/exemplos/V%C3%ADdeo%20IA%20-%20As%20Diferen%C3%A7as%20entre%20o%20Scrum%20e%20o%20Kanban.mp4
 
 ## 💭 Reflexão (Opcional)
 O maior desafio foi sincronizar a narração com os vídeos.
