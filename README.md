@@ -36,11 +36,10 @@ c) Criação e edição de vídeo utilizando o VideoScribe, Adobe Premiere e Pho
 Após criar uma publicação no LinkedIn sobre "As diferenças entre Scrum e Kanban" (https://www.linkedin.com/posts/alexandre-tampieri_metodologiaaergil-scrum-kanban-activity-7152667081220448257-TUaT/?utm_source=share&utm_medium=member_desktop) onde toda a narração foi criada dentro do ElevenLabs, resolvi adaptar o vídeo e incluir uma imagem feita dentro do criador de imagens do Bing.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi criado um vídeo com a duração de 1 minuto e 42 segundos mostrando "As Diferenças entre o Scrum e o Kanban".
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O maior desafio foi sincronizar a narração com os vídeos.
 
 ### Exemplos e Insigths
 
