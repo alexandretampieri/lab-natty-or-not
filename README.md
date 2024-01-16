@@ -45,6 +45,8 @@ Depois resolvi adaptar o vídeo e incluir uma imagem feita dentro do criador de 
 ## 🚀 Resultados
 Foi criado um vídeo com a duração de 1 minuto e 42 segundos mostrando "As Diferenças entre o Scrum e o Kanban", onde concluimos que não existe um melhor, pois a escolha depende de seu contexto.
 
+Link do vídeo: https://github.com/alexandretampieri/lab-natty-or-not/blob/main/exemplos/V%C3%ADdeo%20IA%20-%20As%20Diferen%C3%A7as%20entre%20o%20Scrum%20e%20o%20Kanban.mp4
+
 ## 💭 Reflexão (Opcional)
 O maior desafio foi sincronizar a narração com os vídeos.
 
