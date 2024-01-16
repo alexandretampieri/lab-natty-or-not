@@ -20,16 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo IA - As Diferenças entre o Scrum e o Kanban ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Vídeo apresentando "As Diferenças entre o Scrum e o Kanban".
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+a) Toda a narração foi criada dentro do ElevenLabs utilizando a voz de Josh (american deep narration);
+
+b) A última imagem (homem em dúvida) foi criada utilizando o criador de imagens do Bing;
+
+c) Criação e edição de vídeo utilizando o VideoScribe, Adobe Premiere e Photopia.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Após criar uma publicação no LinkedIn sobre "As diferenças entre Scrum e Kanban" (https://www.linkedin.com/posts/alexandre-tampieri_metodologiaaergil-scrum-kanban-activity-7152667081220448257-TUaT/?utm_source=share&utm_medium=member_desktop) onde toda a narração foi criada dentro do ElevenLabs, resolvi adaptar o vídeo e incluir uma imagem feita dentro do criador de imagens do Bing.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
