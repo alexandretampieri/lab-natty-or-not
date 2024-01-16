@@ -38,10 +38,12 @@ d) Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** p
 e) Software **[Photopia](https://photopia.nl/)** para edição final do vídeo.
 
 ## 🧐 Processo de Criação
-Após criar uma publicação no LinkedIn sobre "As diferenças entre Scrum e Kanban" (https://www.linkedin.com/posts/alexandre-tampieri_metodologiaaergil-scrum-kanban-activity-7152667081220448257-TUaT/?utm_source=share&utm_medium=member_desktop) onde toda a narração foi criada dentro do ElevenLabs, resolvi adaptar o vídeo e incluir uma imagem feita dentro do criador de imagens do Bing.
+Inicialmente fiz uma publicação no LinkedIn sobre "As diferenças entre Scrum e Kanban" (https://www.linkedin.com/posts/alexandre-tampieri_metodologiaaergil-scrum-kanban-activity-7152667081220448257-TUaT) utilizando os softwares VideoScribe, Adobe Premiere e Photopia para criação do vídeo e da IA Generativa ElevenLabs para criação de toda a narração.
+
+Depois resolvi adaptar o vídeo e incluir uma imagem feita dentro do criador de imagens do Bing e gerar um novo vídeo utilizando o software Photopia.
 
 ## 🚀 Resultados
-Foi criado um vídeo com a duração de 1 minuto e 42 segundos mostrando "As Diferenças entre o Scrum e o Kanban".
+Foi criado um vídeo com a duração de 1 minuto e 42 segundos mostrando "As Diferenças entre o Scrum e o Kanban", onde concluimos que não existe um melhor, pois a escolha depende de seu contexto.
 
 ## 💭 Reflexão (Opcional)
 O maior desafio foi sincronizar a narração com os vídeos.
