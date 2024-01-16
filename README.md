@@ -20,17 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Vídeo IA - As Diferenças entre o Scrum e o Kanban ;)
+# Vídeo IA - As Diferenças entre o Scrum e o Kanban 😉
 
 ## 📒 Descrição
 Vídeo apresentando "As Diferenças entre o Scrum e o Kanban".
 
 ## 🤖 Tecnologias Utilizadas
-a) Toda a narração foi criada dentro do ElevenLabs utilizando a voz de Josh (american deep narration);
 
-b) A última imagem (homem em dúvida) foi criada utilizando o criador de imagens do Bing;
+a) IA Generativa **[ElevenLabs] (https://elevenlabs.io/)** utilizando a voz de Josh (american deep narration) para criação da narração;    
 
-c) Criação e edição de vídeo utilizando o VideoScribe, Adobe Premiere e Photopia.
+b) IA Generativa **[Bing Criador de Imagens do Designer] (https://www.bing.com/images/create)** para criação da última imagem (homem em dúvida);
+
+c) Software **[Videoscribe] (https://www.videoscribe.co/)** para edição de vídeo;
+
+d) Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo;
+
+e) Software **[Photopia](https://photopia.nl/)** para edição final do vídeo.
 
 ## 🧐 Processo de Criação
 Após criar uma publicação no LinkedIn sobre "As diferenças entre Scrum e Kanban" (https://www.linkedin.com/posts/alexandre-tampieri_metodologiaaergil-scrum-kanban-activity-7152667081220448257-TUaT/?utm_source=share&utm_medium=member_desktop) onde toda a narração foi criada dentro do ElevenLabs, resolvi adaptar o vídeo e incluir uma imagem feita dentro do criador de imagens do Bing.
